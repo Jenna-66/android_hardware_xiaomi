@@ -1,11 +1,17 @@
 # Displayfeature
 hal_attribute(xiaomi_displayfeature)
 
+# Citsensorservice
+vendor_hal_attribute(xiaomi_citsensorservice)
+
+# Dolby
+hal_attribute(dms)
+
 # Mlipay
 vendor_hal_attribute(xiaomi_mlipay)
 
 # Motor
 vendor_hal_attribute(xiaomi_motor)
 
-# Touchfeaature
+# Touchfeature
 hal_attribute(xiaomi_touchfeature)

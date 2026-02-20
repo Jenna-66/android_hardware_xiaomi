@@ -5,4 +5,14 @@
 (typeattribute new_objects)
 (typeattributeset new_objects
   ( new_objects
-    vendor_thermal_normal_prop))
+    vendor_thermal_normal_prop
+    hal_dms_hwservice
+    hal_xiaomi_displayfeature_hwservice
+    hal_xiaomi_touchfeature_hwservice
+    ir_device
+    sysfs_backlight
+    touchfeature_device
+    vendor_hal_xiaomi_citsensorservice_service
+    vendor_hal_xiaomi_mlipay_hwservice
+    vendor_hal_xiaomi_motor_hwservice
+    ))

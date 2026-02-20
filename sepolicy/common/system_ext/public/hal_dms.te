@@ -1,0 +1,2 @@
+type hal_dms_hwservice, hwservice_manager_type, protected_hwservice;
+hal_attribute_hwservice(hal_dms, hal_dms_hwservice)
